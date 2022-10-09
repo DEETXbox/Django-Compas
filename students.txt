@@ -1,5 +1,9 @@
+Aleksey Abmetko
+Coralina Byeva
+Sergey Ioffe
+Nikita Kyncevich
+Evgheniy Skesr
+Bogdan Siritsa
+Artem Telyak
 Maxim Filinkov
-Anastasiya Brazinskaya
-Alexey Abmetko
-Coralina Bueva
-
+Roman Hymmal
